@@ -1,0 +1,101 @@
+{
+   "blocked_from_class": {
+      "message": "現時点ではそのクラスに参加できません。"
+   },
+   "borderless_classroom": {
+      "message": "ボーダレス教室"
+   },
+   "charge_device_message": {
+      "message": "デバイスのバッテリーが少なくなり始めています。すぐに充電してください。"
+   },
+   "charge_device_title": {
+      "message": "デバイスを充電する"
+   },
+   "chat_prompt": {
+      "message": "ここにメッセージを入力してください"
+   },
+   "class_id": {
+      "description": "This is a label for a text input where the value should be a classroom ID.",
+      "message": "クラスID"
+   },
+   "class_id_missing": {
+      "description": "Error when users does not input a class ID",
+      "message": "参加するにはクラス ID を入力する必要があります"
+   },
+   "connection_error": {
+      "message": "接続エラー"
+   },
+   "enter": {
+      "message": "入力"
+   },
+   "export_conversation": {
+      "message": "会話のエクスポート"
+   },
+   "extensionName": {
+      "description": "Extension name.",
+      "message": "AristotleK12 Student"
+   },
+   "go_back": {
+      "description": "Navigate back button on block page",
+      "message": "戻る"
+   },
+   "inactive_class": {
+      "message": "そのクラスは現在アクティブではありません"
+   },
+   "invalid_class_id": {
+      "description": "Error message when a class ID is entered without an @ symbol or with a space",
+      "message": "すべてのクラス ID は @ 記号で始まり、スペースは含まれません。"
+   },
+   "join_class": {
+      "message": "クラスに参加する"
+   },
+   "join_class_instruction": {
+      "message": "クラスIDを入力し、「クラスに参加」をクリックしてクラスルームに参加します。"
+   },
+   "join_class_not_allowed": {
+      "message": "あなたはそのクラスに入ることができません。"
+   },
+   "join_class_prompt": {
+      "message": "以前のクラスを選択するか、ID を入力して新しいクラスに参加してください。"
+   },
+   "leave_class": {
+      "message": "クラスを離れる"
+   },
+   "network_error": {
+      "message": "ネットワーク エラー。しばらくしてからもう一度お試しください。"
+   },
+   "new_message_title": {
+      "message": "新しいメッセージ！"
+   },
+   "new_messages_count": {
+      "message": "$1 の新しいメッセージ"
+   },
+   "no_conversation": {
+      "message": "エクスポートする会話がありません"
+   },
+   "request_site_review": {
+      "description": "Button to request a site be reviewed by administration",
+      "message": "サイトレビューをリクエストする"
+   },
+   "retry": {
+      "message": "リトライ"
+   },
+   "send_chat": {
+      "message": "送信"
+   },
+   "tab_limit_reached": {
+      "message": "タブの制限に達しました!"
+   },
+   "tab_limit_reached_message": {
+      "message": "十分な数のタブを閉じるまで、$1 のタブのみ開くことができます。"
+   },
+   "unsanctioned_usage_message": {
+      "message": "このデバイスを使用する権限がありません。すぐにサインオフしてください。このメッセージを誤って受け取ったと思われる場合は、学校管理者にご連絡ください。"
+   },
+   "unsanctioned_usage_title": {
+      "message": "許可されていないデバイスの使用"
+   },
+   "welcome": {
+      "message": "へようこそ"
+   }
+}

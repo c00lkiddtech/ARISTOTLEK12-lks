@@ -1,0 +1,1 @@
+import{_ as r}from"./background.ts.48f91a43.js";import"./EventManager.61226456.js";var o=function(){return r(()=>import("./model.min.39e2822b.js"),[])},i=[function(){return r(()=>import("./group1-shard1of2.min.0378cf00.js"),[])},function(){return r(()=>import("./group1-shard2of2.min.d3b989b6.js"),[])}];export{o as modelJson,i as weightBundles};

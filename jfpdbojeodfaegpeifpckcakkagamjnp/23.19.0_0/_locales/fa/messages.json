@@ -1,0 +1,101 @@
+{
+   "blocked_from_class": {
+      "message": "در حال حاضر نمی توان به آن کلاس ملحق شد."
+   },
+   "borderless_classroom": {
+      "message": "کلاس بدون مرز"
+   },
+   "charge_device_message": {
+      "message": "باتری دستگاه شما رو به اتمام است، مطمئن شوید که به زودی آن را شارژ کنید."
+   },
+   "charge_device_title": {
+      "message": "دستگاه خود را شارژ کنید"
+   },
+   "chat_prompt": {
+      "message": "پیام خود را اینجا تایپ کنید"
+   },
+   "class_id": {
+      "description": "This is a label for a text input where the value should be a classroom ID.",
+      "message": "شناسه کلاس"
+   },
+   "class_id_missing": {
+      "description": "Error when users does not input a class ID",
+      "message": "برای عضویت باید یک شناسه کلاس وارد کنید"
+   },
+   "connection_error": {
+      "message": "خطای اتصال"
+   },
+   "enter": {
+      "message": "وارد"
+   },
+   "export_conversation": {
+      "message": "صادرات مکالمه"
+   },
+   "extensionName": {
+      "description": "Extension name.",
+      "message": "AristotleK12 Student"
+   },
+   "go_back": {
+      "description": "Navigate back button on block page",
+      "message": "برگرد"
+   },
+   "inactive_class": {
+      "message": "اون کلاس فعلا فعال نیست"
+   },
+   "invalid_class_id": {
+      "description": "Error message when a class ID is entered without an @ symbol or with a space",
+      "message": "همه شناسه های کلاس با علامت @ شروع می شوند و حاوی فاصله نیستند."
+   },
+   "join_class": {
+      "message": "به کلاس بپیوندید"
+   },
+   "join_class_instruction": {
+      "message": "شناسه کلاس را وارد کنید و روی \"پیوستن به کلاس\" کلیک کنید تا به کلاس درس بپیوندید."
+   },
+   "join_class_not_allowed": {
+      "message": "شما اجازه ورود به آن کلاس را ندارید."
+   },
+   "join_class_prompt": {
+      "message": "یک کلاس قبلی را انتخاب کنید یا یک شناسه برای پیوستن به کلاس جدید وارد کنید!"
+   },
+   "leave_class": {
+      "message": "کلاس را ترک کنید"
+   },
+   "network_error": {
+      "message": "خطای شبکه، لطفاً کمی بعد دوباره امتحان کنید"
+   },
+   "new_message_title": {
+      "message": "پیام جدید!"
+   },
+   "new_messages_count": {
+      "message": "$1 پیام جدید"
+   },
+   "no_conversation": {
+      "message": "گفتگو برای صادرات وجود ندارد"
+   },
+   "request_site_review": {
+      "description": "Button to request a site be reviewed by administration",
+      "message": "درخواست بررسی سایت"
+   },
+   "retry": {
+      "message": "دوباره امتحان کنید"
+   },
+   "send_chat": {
+      "message": "ارسال"
+   },
+   "tab_limit_reached": {
+      "message": "به حد مجاز برگه رسید!"
+   },
+   "tab_limit_reached_message": {
+      "message": "شما فقط مجاز به باز کردن برگه‌های $1 هستید، تا زمانی که به اندازه کافی برگه‌ها را نبندید، دیگر نمی‌توانید باز کنید."
+   },
+   "unsanctioned_usage_message": {
+      "message": "شما مجاز به استفاده از این دستگاه نیستید، لطفاً فوراً از سیستم خارج شوید. اگر فکر می کنید اشتباهاً این پیام را دریافت کرده اید، لطفاً با مدیریت مدرسه خود تماس بگیرید."
+   },
+   "unsanctioned_usage_title": {
+      "message": "استفاده غیرمجاز از دستگاه"
+   },
+   "welcome": {
+      "message": "خوش آمدید به"
+   }
+}

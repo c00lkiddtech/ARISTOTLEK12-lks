@@ -1,0 +1,13 @@
+{
+  "type": "object",
+
+  "properties": {
+
+    "MissingDeviceMode": {
+      "title": "Puts the extension in missing device mode",
+      "description": "If set to true then the session will be treated as a guest session in missing device mode.",
+      "type": "boolean",
+      "default": false
+    }
+  }
+}

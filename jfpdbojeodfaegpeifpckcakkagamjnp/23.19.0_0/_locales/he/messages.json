@@ -1,0 +1,101 @@
+{
+   "blocked_from_class": {
+      "message": "לא ניתן להצטרף לשיעור זה בשלב זה."
+   },
+   "borderless_classroom": {
+      "message": "כיתה ללא גבולות"
+   },
+   "charge_device_message": {
+      "message": "המכשיר שלך מתחיל להתרוקן בסוללה, הקפד לטעון אותו בהקדם."
+   },
+   "charge_device_title": {
+      "message": "טען את המכשיר שלך"
+   },
+   "chat_prompt": {
+      "message": "הקלד את הודעתך כאן"
+   },
+   "class_id": {
+      "description": "This is a label for a text input where the value should be a classroom ID.",
+      "message": "מזהה מחלקה"
+   },
+   "class_id_missing": {
+      "description": "Error when users does not input a class ID",
+      "message": "עליך להזין מזהה כיתה כדי להצטרף"
+   },
+   "connection_error": {
+      "message": "בעיית חיבור"
+   },
+   "enter": {
+      "message": "להיכנס"
+   },
+   "export_conversation": {
+      "message": "ייצוא שיחה"
+   },
+   "extensionName": {
+      "description": "Extension name.",
+      "message": "AristotleK12 Student"
+   },
+   "go_back": {
+      "description": "Navigate back button on block page",
+      "message": "תחזור"
+   },
+   "inactive_class": {
+      "message": "הכיתה הזו לא פעילה כרגע"
+   },
+   "invalid_class_id": {
+      "description": "Error message when a class ID is entered without an @ symbol or with a space",
+      "message": "כל מזהי הכיתה מתחילים בסמל @ ואינם מכילים רווחים."
+   },
+   "join_class": {
+      "message": "הצטרף לכיתה"
+   },
+   "join_class_instruction": {
+      "message": "הזן מזהה כיתה ולחץ על \"הצטרף לכיתה\" כדי להצטרף לכיתה."
+   },
+   "join_class_not_allowed": {
+      "message": "אסור לך להיכנס לשיעור הזה."
+   },
+   "join_class_prompt": {
+      "message": "בחר כיתה קודמת או הזן מזהה כדי להצטרף לכיתה חדשה!"
+   },
+   "leave_class": {
+      "message": "עזוב את הכיתה"
+   },
+   "network_error": {
+      "message": "שגיאת רשת, אנא נסה שוב בעוד מעט"
+   },
+   "new_message_title": {
+      "message": "הודעה חדשה!"
+   },
+   "new_messages_count": {
+      "message": "$1 הודעות חדשות"
+   },
+   "no_conversation": {
+      "message": "אין שיחה לייצא"
+   },
+   "request_site_review": {
+      "description": "Button to request a site be reviewed by administration",
+      "message": "בקש סקירת אתר"
+   },
+   "retry": {
+      "message": "נסה שוב"
+   },
+   "send_chat": {
+      "message": "לִשְׁלוֹחַ"
+   },
+   "tab_limit_reached": {
+      "message": "הגעת למגבלת הכרטיסיות!"
+   },
+   "tab_limit_reached_message": {
+      "message": "מותר לך לפתוח רק $1 כרטיסיות, עד שתסגור מספיק כרטיסיות לא תוכל לפתוח יותר."
+   },
+   "unsanctioned_usage_message": {
+      "message": "אינך מורשה להשתמש במכשיר זה, אנא צא מיד. אם אתה סבור שקיבלת הודעה זו בטעות, אנא צור קשר עם הנהלת בית הספר שלך."
+   },
+   "unsanctioned_usage_title": {
+      "message": "שימוש במכשיר ללא אישור"
+   },
+   "welcome": {
+      "message": "ברוך הבא ל"
+   }
+}

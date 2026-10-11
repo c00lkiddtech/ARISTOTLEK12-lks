@@ -1,0 +1,101 @@
+{
+   "blocked_from_class": {
+      "message": "Kan ikke bli med i det kurset akkurat nå."
+   },
+   "borderless_classroom": {
+      "message": "Grenseløst klasserom"
+   },
+   "charge_device_message": {
+      "message": "Enheten begynner å bli lav på batteri, sørg for å lade den snart."
+   },
+   "charge_device_title": {
+      "message": "Lad enheten din"
+   },
+   "chat_prompt": {
+      "message": "Skriv meldingen din her"
+   },
+   "class_id": {
+      "description": "This is a label for a text input where the value should be a classroom ID.",
+      "message": "Klasse-ID"
+   },
+   "class_id_missing": {
+      "description": "Error when users does not input a class ID",
+      "message": "Du må angi en klasse-ID for å bli med"
+   },
+   "connection_error": {
+      "message": "Tilkoblingsfeil"
+   },
+   "enter": {
+      "message": "Tast inn"
+   },
+   "export_conversation": {
+      "message": "Eksporter samtale"
+   },
+   "extensionName": {
+      "description": "Extension name.",
+      "message": "AristotleK12 Student"
+   },
+   "go_back": {
+      "description": "Navigate back button on block page",
+      "message": "Gå tilbake"
+   },
+   "inactive_class": {
+      "message": "Den klassen er ikke aktiv for øyeblikket"
+   },
+   "invalid_class_id": {
+      "description": "Error message when a class ID is entered without an @ symbol or with a space",
+      "message": "Alle klasse-ID-er starter med et @-symbol og inneholder ikke mellomrom."
+   },
+   "join_class": {
+      "message": "Bli med i klassen"
+   },
+   "join_class_instruction": {
+      "message": "Skriv inn en klasse-ID og klikk \"Bli med i klasse\" for å bli med i et klasserom."
+   },
+   "join_class_not_allowed": {
+      "message": "Du har ikke adgang til den klassen."
+   },
+   "join_class_prompt": {
+      "message": "Velg en tidligere klasse eller skriv inn en ID for å bli med i en ny klasse!"
+   },
+   "leave_class": {
+      "message": "Gå ut av klassen"
+   },
+   "network_error": {
+      "message": "Nettverksfeil, prøv igjen om en liten stund"
+   },
+   "new_message_title": {
+      "message": "Ny melding!"
+   },
+   "new_messages_count": {
+      "message": "$1 nye meldinger"
+   },
+   "no_conversation": {
+      "message": "Ingen samtale å eksportere"
+   },
+   "request_site_review": {
+      "description": "Button to request a site be reviewed by administration",
+      "message": "Be om gjennomgang av nettstedet"
+   },
+   "retry": {
+      "message": "Prøv på nytt"
+   },
+   "send_chat": {
+      "message": "Sende"
+   },
+   "tab_limit_reached": {
+      "message": "Fanegrense nådd!"
+   },
+   "tab_limit_reached_message": {
+      "message": "Du har bare lov til å ha $1 faner åpne, inntil du lukker nok faner vil du ikke kunne åpne lenger."
+   },
+   "unsanctioned_usage_message": {
+      "message": "Du er ikke autorisert til å bruke denne enheten, vennligst logg av umiddelbart. Hvis du mener at du har mottatt denne meldingen ved en feiltakelse, vennligst kontakt skolens administrasjon."
+   },
+   "unsanctioned_usage_title": {
+      "message": "Usanksjonert enhetsbruk"
+   },
+   "welcome": {
+      "message": "Velkommen til"
+   }
+}

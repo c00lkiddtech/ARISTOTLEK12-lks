@@ -1,0 +1,101 @@
+{
+   "blocked_from_class": {
+      "message": "Der Kurs kann derzeit nicht betreten werden."
+   },
+   "borderless_classroom": {
+      "message": "Grenzenloses Klassenzimmer"
+   },
+   "charge_device_message": {
+      "message": "Der Akku Ihres Geräts geht langsam zur Neige. Laden Sie es bald auf."
+   },
+   "charge_device_title": {
+      "message": "Laden Sie Ihr Gerät auf"
+   },
+   "chat_prompt": {
+      "message": "Schreiben Sie ihre Nachricht hier"
+   },
+   "class_id": {
+      "description": "This is a label for a text input where the value should be a classroom ID.",
+      "message": "Klassen-ID"
+   },
+   "class_id_missing": {
+      "description": "Error when users does not input a class ID",
+      "message": "Um beizutreten, müssen Sie eine Klassen-ID eingeben"
+   },
+   "connection_error": {
+      "message": "Verbindungsfehler"
+   },
+   "enter": {
+      "message": "Eingeben"
+   },
+   "export_conversation": {
+      "message": "Konversation exportieren"
+   },
+   "extensionName": {
+      "description": "Extension name.",
+      "message": "AristotleK12 Student"
+   },
+   "go_back": {
+      "description": "Navigate back button on block page",
+      "message": "Geh zurück"
+   },
+   "inactive_class": {
+      "message": "Diese Klasse ist derzeit nicht aktiv"
+   },
+   "invalid_class_id": {
+      "description": "Error message when a class ID is entered without an @ symbol or with a space",
+      "message": "Alle Klassen-IDs beginnen mit einem @-Symbol und enthalten keine Leerzeichen."
+   },
+   "join_class": {
+      "message": "Treten Sie der Klasse bei"
+   },
+   "join_class_instruction": {
+      "message": "Geben Sie eine Klassen-ID ein und klicken Sie auf „Klasse beitreten“, um einem Klassenzimmer beizutreten."
+   },
+   "join_class_not_allowed": {
+      "message": "Sie dürfen diesen Kurs nicht betreten."
+   },
+   "join_class_prompt": {
+      "message": "Wählen Sie eine vorherige Klasse aus oder geben Sie eine ID ein, um einer neuen Klasse beizutreten!"
+   },
+   "leave_class": {
+      "message": "Verlasse die Klasse"
+   },
+   "network_error": {
+      "message": "Netzwerkfehler, bitte versuchen Sie es später noch einmal"
+   },
+   "new_message_title": {
+      "message": "Neue Nachricht!"
+   },
+   "new_messages_count": {
+      "message": "1 $ neue Nachrichten"
+   },
+   "no_conversation": {
+      "message": "Keine Konversation zum Exportieren"
+   },
+   "request_site_review": {
+      "description": "Button to request a site be reviewed by administration",
+      "message": "Fordern Sie eine Site-Überprüfung an"
+   },
+   "retry": {
+      "message": "Wiederholen"
+   },
+   "send_chat": {
+      "message": "Schicken"
+   },
+   "tab_limit_reached": {
+      "message": "Tab-Limit erreicht!"
+   },
+   "tab_limit_reached_message": {
+      "message": "Sie dürfen nur Tabs im Wert von 1 $ geöffnet haben. Solange Sie nicht genügend Tabs geschlossen haben, können Sie diese nicht mehr öffnen."
+   },
+   "unsanctioned_usage_message": {
+      "message": "Sie sind nicht berechtigt, dieses Gerät zu verwenden. Bitte melden Sie sich sofort ab. Wenn Sie glauben, dass Sie diese Nachricht versehentlich erhalten haben, wenden Sie sich bitte an die Schulleitung."
+   },
+   "unsanctioned_usage_title": {
+      "message": "Nicht genehmigte Gerätenutzung"
+   },
+   "welcome": {
+      "message": "Willkommen zu"
+   }
+}

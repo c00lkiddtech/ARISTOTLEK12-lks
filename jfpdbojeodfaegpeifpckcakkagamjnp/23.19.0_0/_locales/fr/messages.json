@@ -1,0 +1,101 @@
+{
+   "blocked_from_class": {
+      "message": "Je ne peux pas rejoindre ce cours pour le moment."
+   },
+   "borderless_classroom": {
+      "message": "Salle de classe sans frontières"
+   },
+   "charge_device_message": {
+      "message": "La batterie de votre appareil commence à être faible, assurez-vous de le charger rapidement."
+   },
+   "charge_device_title": {
+      "message": "Chargez votre appareil"
+   },
+   "chat_prompt": {
+      "message": "tapez votre message ici"
+   },
+   "class_id": {
+      "description": "This is a label for a text input where the value should be a classroom ID.",
+      "message": "Identifiant de classe"
+   },
+   "class_id_missing": {
+      "description": "Error when users does not input a class ID",
+      "message": "Vous devez entrer un identifiant de classe pour rejoindre"
+   },
+   "connection_error": {
+      "message": "Erreur de connexion"
+   },
+   "enter": {
+      "message": "Entrer"
+   },
+   "export_conversation": {
+      "message": "Exporter la conversation"
+   },
+   "extensionName": {
+      "description": "Extension name.",
+      "message": "AristotleK12 Student"
+   },
+   "go_back": {
+      "description": "Navigate back button on block page",
+      "message": "Retourner"
+   },
+   "inactive_class": {
+      "message": "Cette classe n'est pas active actuellement"
+   },
+   "invalid_class_id": {
+      "description": "Error message when a class ID is entered without an @ symbol or with a space",
+      "message": "Tous les ID de classe commencent par un symbole @ et ne contiennent pas d'espaces."
+   },
+   "join_class": {
+      "message": "Rejoindre la classe"
+   },
+   "join_class_instruction": {
+      "message": "Entrez un identifiant de classe et cliquez sur « Rejoindre la classe » pour rejoindre une classe."
+   },
+   "join_class_not_allowed": {
+      "message": "Vous n'êtes pas autorisé à entrer dans cette classe."
+   },
+   "join_class_prompt": {
+      "message": "Sélectionnez un cours précédent ou entrez un identifiant pour rejoindre un nouveau cours !"
+   },
+   "leave_class": {
+      "message": "Quitter la classe"
+   },
+   "network_error": {
+      "message": "Erreur réseau, veuillez réessayer dans quelques instants"
+   },
+   "new_message_title": {
+      "message": "Nouveau message!"
+   },
+   "new_messages_count": {
+      "message": "1 $ de nouveaux messages"
+   },
+   "no_conversation": {
+      "message": "Aucune conversation à exporter"
+   },
+   "request_site_review": {
+      "description": "Button to request a site be reviewed by administration",
+      "message": "Demander un examen du site"
+   },
+   "retry": {
+      "message": "Recommencez"
+   },
+   "send_chat": {
+      "message": "Envoyer"
+   },
+   "tab_limit_reached": {
+      "message": "Limite d'onglets atteinte !"
+   },
+   "tab_limit_reached_message": {
+      "message": "Vous n'êtes autorisé à ouvrir que des onglets de 1 $, jusqu'à ce que vous fermiez suffisamment d'onglets que vous ne pourrez plus ouvrir."
+   },
+   "unsanctioned_usage_message": {
+      "message": "Vous n'êtes pas autorisé à utiliser cet appareil, veuillez vous déconnecter immédiatement. Si vous pensez avoir reçu ce message par erreur, veuillez contacter la direction de votre école."
+   },
+   "unsanctioned_usage_title": {
+      "message": "Utilisation non autorisée d'appareils"
+   },
+   "welcome": {
+      "message": "Bienvenue à"
+   }
+}

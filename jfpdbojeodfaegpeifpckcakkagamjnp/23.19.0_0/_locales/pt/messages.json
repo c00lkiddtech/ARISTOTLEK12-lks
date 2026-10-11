@@ -1,0 +1,101 @@
+{
+   "blocked_from_class": {
+      "message": "Não é possível ingressar nessa turma no momento."
+   },
+   "borderless_classroom": {
+      "message": "Sala de aula sem fronteiras"
+   },
+   "charge_device_message": {
+      "message": "Seu dispositivo está começando a ficar sem bateria, certifique-se de carregá-lo logo."
+   },
+   "charge_device_title": {
+      "message": "Carregue seu dispositivo"
+   },
+   "chat_prompt": {
+      "message": "Digite sua mensagem aqui"
+   },
+   "class_id": {
+      "description": "This is a label for a text input where the value should be a classroom ID.",
+      "message": "ID da classe"
+   },
+   "class_id_missing": {
+      "description": "Error when users does not input a class ID",
+      "message": "Você deve inserir um ID de classe para ingressar"
+   },
+   "connection_error": {
+      "message": "Erro de conexão"
+   },
+   "enter": {
+      "message": "Digitar"
+   },
+   "export_conversation": {
+      "message": "Exportar conversa"
+   },
+   "extensionName": {
+      "description": "Extension name.",
+      "message": "AristotleK12 Student"
+   },
+   "go_back": {
+      "description": "Navigate back button on block page",
+      "message": "Volte"
+   },
+   "inactive_class": {
+      "message": "Essa turma não está ativa no momento"
+   },
+   "invalid_class_id": {
+      "description": "Error message when a class ID is entered without an @ symbol or with a space",
+      "message": "Todos os IDs de classe começam com um símbolo @ e não contêm espaços."
+   },
+   "join_class": {
+      "message": "Junte-se à aula"
+   },
+   "join_class_instruction": {
+      "message": "Insira um ID de turma e clique em “Participar da turma” para ingressar em uma sala de aula."
+   },
+   "join_class_not_allowed": {
+      "message": "Você não tem permissão para entrar nessa aula."
+   },
+   "join_class_prompt": {
+      "message": "Selecione uma turma anterior ou insira um ID para ingressar em uma nova turma!"
+   },
+   "leave_class": {
+      "message": "Sair da aula"
+   },
+   "network_error": {
+      "message": "Erro de rede, tente novamente daqui a pouco"
+   },
+   "new_message_title": {
+      "message": "Nova mensagem!"
+   },
+   "new_messages_count": {
+      "message": "$1 new messages"
+   },
+   "no_conversation": {
+      "message": "Nenhuma conversa para exportar"
+   },
+   "request_site_review": {
+      "description": "Button to request a site be reviewed by administration",
+      "message": "Solicitar revisão do site"
+   },
+   "retry": {
+      "message": "Tentar novamente"
+   },
+   "send_chat": {
+      "message": "Enviar"
+   },
+   "tab_limit_reached": {
+      "message": "Limite de guias alcançado!"
+   },
+   "tab_limit_reached_message": {
+      "message": "Você só pode ter guias de $ 1 abertas; até fechar guias suficientes, você não poderá mais abrir."
+   },
+   "unsanctioned_usage_message": {
+      "message": "Você não está autorizado a usar este dispositivo, desconecte-se imediatamente. Se você acredita que recebeu esta mensagem por engano, entre em contato com a administração da sua escola."
+   },
+   "unsanctioned_usage_title": {
+      "message": "Uso não autorizado de dispositivos"
+   },
+   "welcome": {
+      "message": "Bem-vindo ao"
+   }
+}

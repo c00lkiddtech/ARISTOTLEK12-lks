@@ -1,0 +1,101 @@
+{
+   "blocked_from_class": {
+      "message": "Cannot join that class at this time."
+   },
+   "borderless_classroom": {
+      "message": "Borderless Classroom"
+   },
+   "charge_device_message": {
+      "message": "Your device is beginning to run low on battery, make sure to charge it soon."
+   },
+   "charge_device_title": {
+      "message": "Charge Your Device"
+   },
+   "chat_prompt": {
+      "message": "Type your message here"
+   },
+   "class_id": {
+      "description": "This is a label for a text input where the value should be a classroom ID.",
+      "message": "Class ID"
+   },
+   "class_id_missing": {
+      "description": "Error when users does not input a class ID",
+      "message": "You must enter a class ID to join"
+   },
+   "connection_error": {
+      "message": "Connection Error"
+   },
+   "enter": {
+      "message": "Enter"
+   },
+   "export_conversation": {
+      "message": "Export Conversation"
+   },
+   "extensionName": {
+      "description": "Extension name.",
+      "message": "AristotleK12 Student"
+   },
+   "go_back": {
+      "description": "Navigate back button on block page",
+      "message": "Go Back"
+   },
+   "inactive_class": {
+      "message": "That class is not currently active"
+   },
+   "invalid_class_id": {
+      "description": "Error message when a class ID is entered without an @ symbol or with a space",
+      "message": "All class ID's start with an @ symbol and do not contain spaces."
+   },
+   "join_class": {
+      "message": "Join Class"
+   },
+   "join_class_instruction": {
+      "message": "Enter a class ID and click \"Join Class\" to join a classroom."
+   },
+   "join_class_not_allowed": {
+      "message": "You are not allowed to enter that class."
+   },
+   "join_class_prompt": {
+      "message": "Select a previous class or enter an ID to join a new class!"
+   },
+   "leave_class": {
+      "message": "Leave Class"
+   },
+   "network_error": {
+      "message": "Network error, please try again in a little bit"
+   },
+   "new_message_title": {
+      "message": "New Message!"
+   },
+   "new_messages_count": {
+      "message": "$1 new messages"
+   },
+   "no_conversation": {
+      "message": "No conversation to export"
+   },
+   "request_site_review": {
+      "description": "Button to request a site be reviewed by administration",
+      "message": "Request Site Review"
+   },
+   "retry": {
+      "message": "Retry"
+   },
+   "send_chat": {
+      "message": "Send"
+   },
+   "tab_limit_reached": {
+      "message": "Tab Limit Reached!"
+   },
+   "tab_limit_reached_message": {
+      "message": "You are only allowed to have $1 tabs open, until you close enough tabs you will not be able to open anymore."
+   },
+   "unsanctioned_usage_message": {
+      "message": "You are not authorized to use this device, please sign off immediately. If you believe you received this message by mistake please contact your school Administration."
+   },
+   "unsanctioned_usage_title": {
+      "message": "Unsanctioned Device Usage"
+   },
+   "welcome": {
+      "message": "Welcome to"
+   }
+}

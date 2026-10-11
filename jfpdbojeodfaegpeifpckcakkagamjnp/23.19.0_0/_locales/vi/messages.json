@@ -1,0 +1,101 @@
+{
+   "blocked_from_class": {
+      "message": "Không thể tham gia lớp học đó vào lúc này."
+   },
+   "borderless_classroom": {
+      "message": "Lớp học không biên giới"
+   },
+   "charge_device_message": {
+      "message": "Thiết bị của bạn sắp hết pin, hãy đảm bảo sạc pin sớm."
+   },
+   "charge_device_title": {
+      "message": "Sạc thiết bị của bạn"
+   },
+   "chat_prompt": {
+      "message": "gõ tin nhắn của bạn ở đây"
+   },
+   "class_id": {
+      "description": "This is a label for a text input where the value should be a classroom ID.",
+      "message": "ID lớp"
+   },
+   "class_id_missing": {
+      "description": "Error when users does not input a class ID",
+      "message": "Bạn phải nhập ID lớp để tham gia"
+   },
+   "connection_error": {
+      "message": "Lỗi kết nối"
+   },
+   "enter": {
+      "message": "Đi vào"
+   },
+   "export_conversation": {
+      "message": "Xuất cuộc trò chuyện"
+   },
+   "extensionName": {
+      "description": "Extension name.",
+      "message": "AristotleK12 Student"
+   },
+   "go_back": {
+      "description": "Navigate back button on block page",
+      "message": "Quay lại"
+   },
+   "inactive_class": {
+      "message": "Lớp đó hiện không hoạt động"
+   },
+   "invalid_class_id": {
+      "description": "Error message when a class ID is entered without an @ symbol or with a space",
+      "message": "Tất cả ID lớp đều bắt đầu bằng ký hiệu @ và không chứa dấu cách."
+   },
+   "join_class": {
+      "message": "Tham gia lớp học"
+   },
+   "join_class_instruction": {
+      "message": "Nhập ID lớp và nhấp vào \"Tham gia lớp học\" để tham gia lớp học."
+   },
+   "join_class_not_allowed": {
+      "message": "Bạn không được phép vào lớp đó."
+   },
+   "join_class_prompt": {
+      "message": "Chọn lớp trước hoặc nhập ID để tham gia lớp mới!"
+   },
+   "leave_class": {
+      "message": "Rời khỏi lớp"
+   },
+   "network_error": {
+      "message": "Lỗi mạng, vui lòng thử lại sau giây lát"
+   },
+   "new_message_title": {
+      "message": "Tin nhắn mới!"
+   },
+   "new_messages_count": {
+      "message": "$1 tin nhắn mới"
+   },
+   "no_conversation": {
+      "message": "Không có cuộc trò chuyện nào để xuất"
+   },
+   "request_site_review": {
+      "description": "Button to request a site be reviewed by administration",
+      "message": "Yêu cầu đánh giá trang web"
+   },
+   "retry": {
+      "message": "Thử lại"
+   },
+   "send_chat": {
+      "message": "Gửi"
+   },
+   "tab_limit_reached": {
+      "message": "Đã đạt đến giới hạn tab!"
+   },
+   "tab_limit_reached_message": {
+      "message": "Bạn chỉ được phép mở tab $1, đóng đủ số tab bạn sẽ không thể mở được nữa."
+   },
+   "unsanctioned_usage_message": {
+      "message": "Bạn không được phép sử dụng thiết bị này, vui lòng đăng xuất ngay lập tức. Nếu bạn cho rằng mình nhận được tin nhắn này do nhầm lẫn, vui lòng liên hệ với Ban quản lý trường học của bạn."
+   },
+   "unsanctioned_usage_title": {
+      "message": "Sử dụng thiết bị không được phê duyệt"
+   },
+   "welcome": {
+      "message": "Chào mừng bạn đến"
+   }
+}

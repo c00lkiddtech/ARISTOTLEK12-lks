@@ -1,0 +1,101 @@
+{
+   "blocked_from_class": {
+      "message": "지금은 해당 수업에 참여할 수 없습니다."
+   },
+   "borderless_classroom": {
+      "message": "경계 없는 교실"
+   },
+   "charge_device_message": {
+      "message": "기기의 배터리가 부족해지기 시작했습니다. 빨리 충전하세요."
+   },
+   "charge_device_title": {
+      "message": "장치 충전"
+   },
+   "chat_prompt": {
+      "message": "메세지를 여기에 입력하세요"
+   },
+   "class_id": {
+      "description": "This is a label for a text input where the value should be a classroom ID.",
+      "message": "클래스 ID"
+   },
+   "class_id_missing": {
+      "description": "Error when users does not input a class ID",
+      "message": "참여하려면 수업 ID를 입력해야 합니다."
+   },
+   "connection_error": {
+      "message": "연결 오류"
+   },
+   "enter": {
+      "message": "입력하다"
+   },
+   "export_conversation": {
+      "message": "대화 내보내기"
+   },
+   "extensionName": {
+      "description": "Extension name.",
+      "message": "AristotleK12 Student"
+   },
+   "go_back": {
+      "description": "Navigate back button on block page",
+      "message": "돌아가기"
+   },
+   "inactive_class": {
+      "message": "해당 수업은 현재 활성화되어 있지 않습니다."
+   },
+   "invalid_class_id": {
+      "description": "Error message when a class ID is entered without an @ symbol or with a space",
+      "message": "모든 클래스 ID는 @ 기호로 시작하며 공백을 포함하지 않습니다."
+   },
+   "join_class": {
+      "message": "수업에 참여하기"
+   },
+   "join_class_instruction": {
+      "message": "수업 ID를 입력하고 '수업 참여'를 클릭하여 수업에 참여하세요."
+   },
+   "join_class_not_allowed": {
+      "message": "당신은 그 수업에 들어갈 수 없습니다."
+   },
+   "join_class_prompt": {
+      "message": "이전 수업을 선택하거나, 새로운 수업에 참여하려면 ID를 입력하세요!"
+   },
+   "leave_class": {
+      "message": "수업 나가기"
+   },
+   "network_error": {
+      "message": "네트워크 오류입니다. 잠시 후 다시 시도해 주세요."
+   },
+   "new_message_title": {
+      "message": "새로운 메시지!"
+   },
+   "new_messages_count": {
+      "message": "$1개의 새 메시지"
+   },
+   "no_conversation": {
+      "message": "내보낼 대화가 없습니다."
+   },
+   "request_site_review": {
+      "description": "Button to request a site be reviewed by administration",
+      "message": "사이트 검토 요청"
+   },
+   "retry": {
+      "message": "다시 해 보다"
+   },
+   "send_chat": {
+      "message": "보내다"
+   },
+   "tab_limit_reached": {
+      "message": "탭 한도에 도달했습니다!"
+   },
+   "tab_limit_reached_message": {
+      "message": "$1개의 탭만 열 수 있으며, 탭을 충분히 닫을 때까지 더 이상 열 수 없습니다."
+   },
+   "unsanctioned_usage_message": {
+      "message": "이 장치를 사용할 권한이 없습니다. 즉시 로그아웃하세요. 실수로 이 메시지를 받았다고 생각되면 학교 행정실에 문의하세요."
+   },
+   "unsanctioned_usage_title": {
+      "message": "승인되지 않은 장치 사용"
+   },
+   "welcome": {
+      "message": "에 오신 것을 환영합니다"
+   }
+}

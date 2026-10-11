@@ -1,0 +1,43 @@
+{
+   "action": {
+      "default_icon": "mtm.png",
+      "default_title": "AristotleK12 Student"
+   },
+   "background": {
+      "service_worker": "service-worker-loader.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "assets/content-script-loader.pageMonitor.23f4b633.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_idle"
+   }, {
+      "all_frames": true,
+      "js": [ "assets/content-script-loader.injectionConfig.7e585d82.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "externally_connectable": {
+      "matches": [ "*://*.aristotleinsight.com/*" ]
+   },
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "mtm.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArpSzc9AXIhdI0sGMjeQR9D0nlhbmvBP7YZf3IiTqYzYLdydAhmEgjGFBAlWrecjbKLMTofU7BVUUD5deGb2mf95t6r57WyAsgJ7FZDUeQKyQWk7YBWlrxe51j5ZAf1XnqM7TXixlQfpxiBdb3DG0/CS6exjWtjL0dhv55ubowq97FoP6AvVMEt/CPEB8kguRm77nTqS+ms9lNo2NM6Yur2Qfm+kyy+7xJIO/OB1IGDXHhrsGAR2S3UOHrh+M3o+QG7kTGUyTgQ7f4ZOS5cCureCZ67jpIu+aE6Sj72LVZDw6a965gpFpTNsT8TkRXZm3FgwSsFa7RufF79XOZw6y8QIDAQAB",
+   "manifest_version": 3,
+   "name": "AristotleK12 Student",
+   "permissions": [ "action", "gcm", "activeTab", "geolocation", "tabs", "webRequest", "webRequestBlocking", "webNavigation", "management", "background", "downloads", "identity", "identity.email", "enterprise.deviceAttributes", "enterprise.networkingAttributes", "privacy", "notifications", "contextMenus", "storage", "scripting", "power", "alarms", "cookies", "system.storage", "system.display", "nativeMessaging", "printingMetrics", "offscreen", "contentSettings", "idle" ],
+   "storage": {
+      "managed_schema": "schema.json"
+   },
+   "update_url": "https://rogueone.aristotleinsight.com/UpdateCheck/ALBUQUERQUE_IMS_NM_K12_AICS/b0b4b2a5040feb3e95e98ee7bd20e1c2/",
+   "version": "23.19.0",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "pageMonitor.js", "injectionConfig.js" ],
+      "use_dynamic_url": true
+   } ]
+}

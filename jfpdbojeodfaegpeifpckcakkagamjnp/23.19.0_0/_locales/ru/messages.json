@@ -1,0 +1,101 @@
+{
+   "blocked_from_class": {
+      "message": "В настоящее время невозможно присоединиться к этому курсу."
+   },
+   "borderless_classroom": {
+      "message": "Класс без границ"
+   },
+   "charge_device_message": {
+      "message": "Батарея вашего устройства начинает разряжаться, обязательно зарядите ее в ближайшее время."
+   },
+   "charge_device_title": {
+      "message": "Зарядите свое устройство"
+   },
+   "chat_prompt": {
+      "message": "Пишите ваше сообщение здесь"
+   },
+   "class_id": {
+      "description": "This is a label for a text input where the value should be a classroom ID.",
+      "message": "ID класса"
+   },
+   "class_id_missing": {
+      "description": "Error when users does not input a class ID",
+      "message": "Чтобы присоединиться, вам необходимо ввести идентификатор класса"
+   },
+   "connection_error": {
+      "message": "Ошибка подключения"
+   },
+   "enter": {
+      "message": "Входить"
+   },
+   "export_conversation": {
+      "message": "Экспортный разговор"
+   },
+   "extensionName": {
+      "description": "Extension name.",
+      "message": "AristotleK12 Student"
+   },
+   "go_back": {
+      "description": "Navigate back button on block page",
+      "message": "Возвращаться"
+   },
+   "inactive_class": {
+      "message": "Этот класс в настоящее время не активен"
+   },
+   "invalid_class_id": {
+      "description": "Error message when a class ID is entered without an @ symbol or with a space",
+      "message": "Все идентификаторы классов начинаются с символа @ и не содержат пробелов."
+   },
+   "join_class": {
+      "message": "Присоединиться к классу"
+   },
+   "join_class_instruction": {
+      "message": "Введите идентификатор класса и нажмите «Присоединиться к классу», чтобы присоединиться к классу."
+   },
+   "join_class_not_allowed": {
+      "message": "Вам не разрешено войти в этот класс."
+   },
+   "join_class_prompt": {
+      "message": "Выберите предыдущий класс или введите идентификатор, чтобы присоединиться к новому классу!"
+   },
+   "leave_class": {
+      "message": "Покинуть класс"
+   },
+   "network_error": {
+      "message": "Ошибка сети. Повторите попытку через некоторое время."
+   },
+   "new_message_title": {
+      "message": "Новое сообщение!"
+   },
+   "new_messages_count": {
+      "message": "$1 за новые сообщения"
+   },
+   "no_conversation": {
+      "message": "Нет разговора для экспорта"
+   },
+   "request_site_review": {
+      "description": "Button to request a site be reviewed by administration",
+      "message": "Запросить проверку сайта"
+   },
+   "retry": {
+      "message": "Повторить попытку"
+   },
+   "send_chat": {
+      "message": "Отправлять"
+   },
+   "tab_limit_reached": {
+      "message": "Достигнут лимит вкладок!"
+   },
+   "tab_limit_reached_message": {
+      "message": "Вам разрешено открывать только вкладки стоимостью 1 доллар, и пока вы не закроете достаточно вкладок, вы больше не сможете их открывать."
+   },
+   "unsanctioned_usage_message": {
+      "message": "У вас нет прав на использование этого устройства. Немедленно выйдите из системы. Если вы считаете, что получили это сообщение по ошибке, обратитесь в администрацию школы."
+   },
+   "unsanctioned_usage_title": {
+      "message": "Несанкционированное использование устройств"
+   },
+   "welcome": {
+      "message": "Добро пожаловать в"
+   }
+}

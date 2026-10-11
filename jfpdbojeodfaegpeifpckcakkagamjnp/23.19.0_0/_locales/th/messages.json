@@ -1,0 +1,101 @@
+{
+   "blocked_from_class": {
+      "message": "ไม่สามารถเข้าร่วมชั้นเรียนนั้นได้ในขณะนี้"
+   },
+   "borderless_classroom": {
+      "message": "ห้องเรียนไร้พรมแดน"
+   },
+   "charge_device_message": {
+      "message": "อุปกรณ์ของคุณแบตเตอรี่เริ่มเหลือน้อย โปรดชาร์จเร็วๆ นี้"
+   },
+   "charge_device_title": {
+      "message": "ชาร์จอุปกรณ์ของคุณ"
+   },
+   "chat_prompt": {
+      "message": "พิมพ์ข้อความของคุณที่นี่"
+   },
+   "class_id": {
+      "description": "This is a label for a text input where the value should be a classroom ID.",
+      "message": "รหัสคลาส"
+   },
+   "class_id_missing": {
+      "description": "Error when users does not input a class ID",
+      "message": "คุณต้องป้อนรหัสชั้นเรียนเพื่อเข้าร่วม"
+   },
+   "connection_error": {
+      "message": "การเชื่อมต่อล้มเหลว"
+   },
+   "enter": {
+      "message": "เข้า"
+   },
+   "export_conversation": {
+      "message": "ส่งออกการสนทนา"
+   },
+   "extensionName": {
+      "description": "Extension name.",
+      "message": "AristotleK12 Student"
+   },
+   "go_back": {
+      "description": "Navigate back button on block page",
+      "message": "กลับไป"
+   },
+   "inactive_class": {
+      "message": "ชั้นเรียนนั้นไม่ได้ใช้งานอยู่ในขณะนี้"
+   },
+   "invalid_class_id": {
+      "description": "Error message when a class ID is entered without an @ symbol or with a space",
+      "message": "ID คลาสทั้งหมดเริ่มต้นด้วยสัญลักษณ์ @ และไม่มีการเว้นวรรค"
+   },
+   "join_class": {
+      "message": "เข้าร่วมชั้นเรียน"
+   },
+   "join_class_instruction": {
+      "message": "ป้อนรหัสชั้นเรียนแล้วคลิก \"เข้าร่วมชั้นเรียน\" เพื่อเข้าร่วมห้องเรียน"
+   },
+   "join_class_not_allowed": {
+      "message": "คุณไม่ได้รับอนุญาตให้เข้าชั้นเรียนนั้น"
+   },
+   "join_class_prompt": {
+      "message": "เลือกชั้นเรียนก่อนหน้าหรือป้อน ID เพื่อเข้าร่วมชั้นเรียนใหม่!"
+   },
+   "leave_class": {
+      "message": "ออกจากชั้นเรียน"
+   },
+   "network_error": {
+      "message": "เครือข่ายเกิดข้อผิดพลาด โปรดลองอีกครั้งในอีกสักครู่"
+   },
+   "new_message_title": {
+      "message": "ข้อความใหม่!"
+   },
+   "new_messages_count": {
+      "message": "$1 ข้อความใหม่"
+   },
+   "no_conversation": {
+      "message": "ไม่มีการสนทนาที่จะส่งออก"
+   },
+   "request_site_review": {
+      "description": "Button to request a site be reviewed by administration",
+      "message": "ร้องขอการตรวจสอบไซต์"
+   },
+   "retry": {
+      "message": "ลองอีกครั้ง"
+   },
+   "send_chat": {
+      "message": "ส่ง"
+   },
+   "tab_limit_reached": {
+      "message": "ถึงขีดจำกัดแท็บแล้ว!"
+   },
+   "tab_limit_reached_message": {
+      "message": "คุณได้รับอนุญาตให้เปิดแท็บได้เพียง $1 จนกว่าคุณจะปิดแท็บได้มากพอ คุณจะไม่สามารถเปิดได้อีกต่อไป"
+   },
+   "unsanctioned_usage_message": {
+      "message": "คุณไม่ได้รับอนุญาตให้ใช้อุปกรณ์นี้ โปรดลงชื่อออกทันที หากคุณเชื่อว่าคุณได้รับข้อความนี้โดยไม่ได้ตั้งใจ โปรดติดต่อฝ่ายบริหารโรงเรียนของคุณ"
+   },
+   "unsanctioned_usage_title": {
+      "message": "การใช้อุปกรณ์ที่ไม่ได้รับอนุญาต"
+   },
+   "welcome": {
+      "message": "ยินดีต้อนรับสู่"
+   }
+}

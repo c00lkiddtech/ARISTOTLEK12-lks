@@ -1,0 +1,101 @@
+{
+   "blocked_from_class": {
+      "message": "Зараз неможливо приєднатися до цього класу."
+   },
+   "borderless_classroom": {
+      "message": "Класна кімната без меж"
+   },
+   "charge_device_message": {
+      "message": "Батарея вашого пристрою починає розряджатися, не забудьте зарядити його якнайшвидше."
+   },
+   "charge_device_title": {
+      "message": "Зарядіть свій пристрій"
+   },
+   "chat_prompt": {
+      "message": "Введіть своє повідомлення тут"
+   },
+   "class_id": {
+      "description": "This is a label for a text input where the value should be a classroom ID.",
+      "message": "ID класу"
+   },
+   "class_id_missing": {
+      "description": "Error when users does not input a class ID",
+      "message": "Ви повинні ввести ідентифікатор класу, щоб приєднатися"
+   },
+   "connection_error": {
+      "message": "Помилка з'єднання"
+   },
+   "enter": {
+      "message": "Введіть"
+   },
+   "export_conversation": {
+      "message": "Експорт розмови"
+   },
+   "extensionName": {
+      "description": "Extension name.",
+      "message": "AristotleK12 Student"
+   },
+   "go_back": {
+      "description": "Navigate back button on block page",
+      "message": "Повертайся"
+   },
+   "inactive_class": {
+      "message": "Цей клас зараз неактивний"
+   },
+   "invalid_class_id": {
+      "description": "Error message when a class ID is entered without an @ symbol or with a space",
+      "message": "Усі ідентифікатори класів починаються з символу @ і не містять пробілів."
+   },
+   "join_class": {
+      "message": "Приєднатися до класу"
+   },
+   "join_class_instruction": {
+      "message": "Введіть ідентифікатор класу та натисніть «Приєднатися до класу», щоб приєднатися до класу."
+   },
+   "join_class_not_allowed": {
+      "message": "Вам заборонено входити до цього класу."
+   },
+   "join_class_prompt": {
+      "message": "Виберіть попередній клас або введіть ідентифікатор, щоб приєднатися до нового класу!"
+   },
+   "leave_class": {
+      "message": "Залишити клас"
+   },
+   "network_error": {
+      "message": "Помилка мережі. Повторіть спробу пізніше"
+   },
+   "new_message_title": {
+      "message": "Нове повідомлення!"
+   },
+   "new_messages_count": {
+      "message": "$1 нових повідомлень"
+   },
+   "no_conversation": {
+      "message": "Немає розмов для експорту"
+   },
+   "request_site_review": {
+      "description": "Button to request a site be reviewed by administration",
+      "message": "Запит на перевірку сайту"
+   },
+   "retry": {
+      "message": "Повторіть спробу"
+   },
+   "send_chat": {
+      "message": "Надіслати"
+   },
+   "tab_limit_reached": {
+      "message": "Досягнуто ліміту вкладок!"
+   },
+   "tab_limit_reached_message": {
+      "message": "Вам дозволено відкривати лише $1 вкладок, доки ви не закриєте достатньо вкладок, які ви більше не зможете відкрити."
+   },
+   "unsanctioned_usage_message": {
+      "message": "Ви не маєте права використовувати цей пристрій, негайно вийдіть із системи. Якщо ви вважаєте, що отримали це повідомлення помилково, зверніться до адміністрації школи."
+   },
+   "unsanctioned_usage_title": {
+      "message": "Несанкціоноване використання пристрою"
+   },
+   "welcome": {
+      "message": "Ласкаво просимо до"
+   }
+}
